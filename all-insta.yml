@@ -41,7 +41,7 @@ Resources:
     Properties:
       ImageId: ami-0a3c3a20c09d6f377
       InstanceType: t2.micro
-      KeyName: jnk_keypair_oregon
+      KeyName: newkeypair
       NetworkInterfaces:
         - AssociatePublicIpAddress: "true"
           DeviceIndex: "0"
